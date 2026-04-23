@@ -23,7 +23,7 @@ It replicates the basic layout and design of the Amazon website.
 ---
 
 ## 📸 Screenshot
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 ---
 
