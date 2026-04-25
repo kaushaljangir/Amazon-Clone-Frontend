@@ -23,7 +23,7 @@
     height: 50px;
     width: 100%;
     background-size: cover;
-    background-image: url("images/amazon_logo.png");
+    background-image: url("images/awazon_logo.png");
 }
 
 .border{
@@ -165,7 +165,7 @@ span{
 }
 
 .hero-section{
-    height:300px;
+    height:250px;
     background-image: linear-gradient(
       to top,
       #ced8d8 0%,
@@ -320,7 +320,7 @@ ul li{
     height: 50px;
     width: 100%;
     background-size: cover;
-    background-image: url("images/amazon_logo.png");
+    background-image: url("images/awazon_logo.png");
     width: 100px;
 }
 
