@@ -23,26 +23,15 @@ It replicates the basic layout and design of the Amazon website.
 ---
 
 ## 📸 Screenshot
-![Screenshot](images/Screenshot.png)
+![Screenshot](images/Screenshot%20(2).png)
 
 ---
 
 ## 🔗 Live Demo
-https://kaushaljangir.github.io/Amazon-Clone-Frontend/
+https://kaushaljangir.github.io/Ecommerce-Clone/
 
 ---
 
-## 📂 Project Structure
-Amazon-Clone-Frontend/
-│
-├── index.html
-├── style.css
-├── images/
-│   ├── product1.jpg
-│   ├── banner.jpg
-│   └── screenshot.png
-
----
 
 ## 📌 How to Run
 1. Download or clone the repository  
