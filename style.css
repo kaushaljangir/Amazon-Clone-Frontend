@@ -4,13 +4,31 @@
     box-sizing: border-box;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .navbar{
-    height: 60px;
+    /* height: 60px; */
     background-color: #0f1111;
     color: white ;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+}
+
+/* LEFT PART NAVIGATION */
+.nav-left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* RIGHT PART OF NAVIGATION */
+.nav-right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
 }
 
 /* BOX 1 */
@@ -57,10 +75,14 @@
     display: flex;
     align-items: center;
     background-color: pink;
-    width: 620px;
+    flex: 1;
+    max-width: 620px;
     height: 40px;
     border-radius: 5px;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
+    margin-right: 20px;
+    margin-left: 20px;
+    
 }
 
 .nav-search:hover{
@@ -340,4 +362,30 @@ ul li{
 
 .foot-panel4 a{
     margin-right: 10px;
+}
+
+
+@media (max-width : 768px){
+
+    .navbar{
+        flex-direction: column ;
+        align-items: stretch;
+        gap : 10px;
+        padding : 10px 30px;
+    }
+
+    .nav-left{
+        justify-content: space-between;
+        width: 100%;
+        
+    }
+
+    nav-search{
+        width: 100%;
+    }
+    .nav-right{
+        justify-content: space-between;
+        width: 100%;
+        
+    }
 }
