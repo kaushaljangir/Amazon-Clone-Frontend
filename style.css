@@ -41,7 +41,7 @@ body{
     height: 50px;
     width: 100%;
     background-size: cover;
-    background-image: url("images/awazon_logo.png");
+    background-image: url("images/ShopNow_logo.png");
 }
 
 .border{
@@ -313,7 +313,7 @@ ul li{
     height: 50px;
     width: 100%;
     background-size: cover;
-    background-image: url("images/awazon_logo.png");
+    background-image: url("images/ShopNow_logo.png");
     width: 100px;
 }
 

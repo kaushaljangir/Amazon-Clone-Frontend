@@ -1,15 +1,15 @@
-# Amazon-Clone-Frontend
-frontend Amazon clone built using HTML and  CSS replicating the basic UI and layout.
+# ShopNow-Clone-Frontend
+frontend ShopNow clone built using HTML and  CSS replicating the basic UI and layout.
 
-# 🛒 Amazon Clone (Frontend)
+# 🛒 ShopNow Clone (Frontend)
 
-This is a frontend Amazon clone project built using HTML and CSS.  
-It replicates the basic layout and design of the Amazon website.
+This is a frontend ShopNow clone project built using HTML and CSS.  
+It replicates the basic layout and design of the ShopNow website.
 
 ---
 
 ## 🚀 Features
-- Navigation bar similar to Amazon
+- Navigation bar similar to ShopNow
 - Product sections layout
 - Clean UI design
 - Basic homepage structure
