@@ -280,9 +280,11 @@ footer{
 .foot-panel2{
     background-color: #222f3d;
     color: white;
-    height: 350px;
+    /* height: 350px; */
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
+    padding-bottom: 20px;
 }
 
 ul{
@@ -384,10 +386,18 @@ ul li{
     .box{
         width: 48%;
     }
+
+    ul{
+        width: 45%
+    }
 }
 
 @media (max-width : 480px){
     .box{
+        width: 100%;
+    }
+
+    ul{
         width: 100%;
     }
 }
